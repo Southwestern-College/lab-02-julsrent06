@@ -1,6 +1,6 @@
 
 /*@julsrent06
- * Julius Renteria and 
+ * Julius Renteria and Karen Sandoval 
  */
 import java.util.Scanner;
 
