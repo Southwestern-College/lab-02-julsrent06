@@ -1,8 +1,13 @@
+
+/*@julsrent06
+ * Julius Renteria and 
+ */
 import java.util.Scanner;
 
 public class Maximum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        /* Keyboard Input */
         System.out.println("Enter first number: ");
         int number1 = input.nextInt();
         System.out.println("Enter second number: ");
